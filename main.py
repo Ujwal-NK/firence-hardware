@@ -6,8 +6,8 @@ import socket
 import uasyncio
 
 ####### Global Variables #######
-SSID = "mu2"        # WiFi SSID   
-PASS = "05690569"   # WiFi Password
+SSID = "your_wifi_ssid"        # WiFi SSID   
+PASS = "your_wifi_pass"   # WiFi Password
 
 
 ####### GPIOs #######
